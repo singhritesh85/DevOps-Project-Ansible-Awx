@@ -1,4 +1,4 @@
-# kubectl create secret tls awx-tls-secret --cert=STAR_singhritesh85_com.crt --key=mykey.key -n awx
+# kubectl create secret tls awx-tls-secret --cert=f58ce5a18a182d4b.crt --key=server.key -n awx
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
